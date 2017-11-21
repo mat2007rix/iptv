@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:0,Channel 1
+http://stream.elcld.com:6001/sport/ch1/ch1_720.m3u8
+#EXTINF:0,Channel 2
+http://stream.elcld.com:6001/sport/ch2/ch2_720.m3u8
+#EXTINF:0,Channel 3
+http://stream.elcld.com:6002/movies/ch4/ch4_720.m3u8
+#EXTINF:0,Channel 4
+http://stream.elcld.com:6001/sport/ch4/ch4_720.m3u8
+#EXTINF:0,Channel 5
+http://stream.elcld.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:0,Channel 6
+http://stream.elcld.com:6001/sport/ch6/ch6_720.m3u8
+#EXTINF:0,Channel 7
+http://stream.elcld.com:6001/sport/ch7/ch7_720.m3u8
+#EXTINF:0,Channel 8
+http://stream.elcld.com:6001/sport/ch8/ch8_720.m3u8
+#EXTINF:0,Channel 9
+http://stream.elcld.com:6001/sport/ch9/ch9_720.m3u8
+#EXTINF:0,Channel 10
+http://stream.elcld.com:6001/sport/ch10/ch10_720.m3u8
+#EXTINF:0,Channel 11
+http://stream.elcld.com:6003/sport/ch11/ch11_720.m3u8
+#EXTINF:0,Channel 12
+http://stream.elcld.com:6003/sport/ch12/ch12_720.m3u8
+#EXTINF:0,Channel 13
+http://stream.elcld.com:6001/sport/ch8/ch8_720.m3u8
+#EXTINF:0,Channel 14
+http://stream.elcld.com:6003/sport/ch14/ch14_720.m3u8
+#EXTINF:0,Channel 15
+http://stream.elcld.com:6002/movies/ch1/ch1_720.m3u8
+#EXTINF:0,Channel 16
+http://stream.elcld.com:6002/movies/ch2/ch2_720.m3u8
+#EXTINF:0,Channel 17
+http://stream.elcld.com:6002/movies/ch3/ch3_720.m3u8
+#EXTINF:0,Channel 18
+http://stream.elcld.com:6001/sport/ch5/ch5_720.m3u8
+#EXTINF:0,Channel 19
+http://stream.elcld.com:6002/movies/ch5/ch5_720.m3u8
+#EXTINF:0,Channel 20
+http://stream.elcld.com:6002/movies/ch6/ch6_720.m3u8
+#EXTINF:0,Channel 21
+http://stream.elcld.com:6002/movies/ch7/ch7_720.m3u8
+#EXTINF:0,Channel 22
+http://stream.elcld.com:6002/movies/ch8/ch8_720.m3u8
+#EXTINF:0,Channel 23
+http://stream.elcld.com:6002/movies/ch9/ch9_720.m3u8
+#EXTINF:0,Channel 24
+http://stream.elcld.com:6002/movies/ch10/ch10_720.m3u8
+#EXTINF:0,Channel 25
+http://stream.elcld.com:6002/movies/ch11/ch11_720.m3u8
+#EXTINF:0,Channel 26
+http://stream.elcld.com:6003/movies/ch12/ch12_720.m3u8
+#EXTINF:0,Channel 27
+http://stream.elcld.com:6003/movies/ch13/ch13_720.m3u8
+#EXTINF:0,Channel 28
+http://stream.elcld.com:6003/movies/ch14/ch14_720.m3u8
+#EXTINF:0,Channel 29
+http://stream.elcld.com:6003/movies/ch15/ch15_720.m3u8
+#EXTINF:0,Channel 30
+http://stream.elcld.com:6002/series/ch1/ch1_720.m3u8
+#EXTINF:0,Channel 31
+http://stream.elcld.com:6002/series/ch2/ch2_720.m3u8
+#EXTINF:0,Channel 32
+http://stream.elcld.com:6002/series/ch3/ch3_720.m3u8
+#EXTINF:0,Channel 33
+http://stream.elcld.com:6002/series/ch4/ch4_720.m3u8
+#EXTINF:0,Channel 34
+http://stream.elcld.com:6003/series/ch5/ch5_720.m3u8
+#EXTINF:0,Channel 35
+http://stream.elcld.com:6003/series/ch6/ch6_720.m3u8
+#EXTINF:0,Channel 36
+http://stream.elcld.com:6002/enter/ch1/ch1_720.m3u8
+#EXTINF:0,Channel 37
+http://stream.elcld.com:6002/enter/ch2/ch2_720.m3u8
+#EXTINF:0,Channel 38
+http://stream.elcld.com:6002/enter/ch3/ch3_720.m3u8
+#EXTINF:0,Channel 39
+http://stream.elcld.com:6002/enter/ch4/ch4_720.m3u8
+#EXTINF:0,Channel 40
+http://stream.elcld.com:6003/enter/ch5/ch5_720.m3u8
+#EXTINF:0,Channel 41
+http://stream.elcld.com:6003/enter/ch6/ch6_720.m3u8
+#EXTINF:0,Channel 42
+http://stream.elcld.com:6003/enter/ch7/ch7_720.m3u8
+#EXTINF:0,Channel 43
+http://stream.elcld.com:6003/enter/ch8/ch8_720.m3u8
+#EXTINF:0,Channel 44
+http://stream.elcld.com:6003/enter/ch9/ch9_720.m3u8
+#EXTINF:0,Channel 45
+http://stream.elcld.com:6003/enter/ch10/ch10_720.m3u8
+#EXTINF:0,Channel 46
+http://stream.elcld.com:6003/enter/ch11/ch11_720.m3u8
+#EXTINF:0,Channel 47
+http://stream.elcld.com:6003/enter/ch10/ch10_720.m3u8
+#EXTINF:0,Channel 48
+http://stream.elcld.com:6003/kids/ch1/ch1_720.m3u8
+#EXTINF:0,Channel 49
+http://stream.elcld.com:6003/kids/ch2/ch2_720.m3u8
+#EXTINF:0,Channel 50
+http://stream.elcld.com:6003/kids/ch3/ch3_720.m3u8
