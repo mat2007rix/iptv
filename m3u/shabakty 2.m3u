@@ -1,0 +1,545 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT ID HD"  group-title="Unsorted",NAT ID HD
+http://stream.shabakaty.com:6001/enter/ch1/ch1_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MUSIC NOW SD"  group-title="Unsorted",MUSIC NOW SD
+http://stream.shabakaty.com:6001/enter/ch22/ch22_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MUSIC NOW HD"  group-title="Unsorted",MUSIC NOW HD
+http://stream.shabakaty.com:6001/enter/ch22/ch22_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NAT ID SD"  group-title="Unsorted",NAT ID SD
+http://stream.shabakaty.com:6001/enter/ch1/ch1_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBCDRAMA HD"  group-title="Unsorted",MBCDRAMA HD
+http://stream.shabakaty.com:6001/series/ch3/ch3_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC3 SD"  group-title="Unsorted",MBC3 SD
+http://stream.shabakaty.com:6001/kids/ch4/ch4_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC3 HD"  group-title="Unsorted",MBC3 HD
+http://stream.shabakaty.com:6001/kids/ch4/ch4_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV SD"  group-title="Unsorted",MTV SD
+http://stream.shabakaty.com:6001/enter/ch25/ch25_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MTV HD"  group-title="Unsorted",MTV HD
+http://stream.shabakaty.com:6001/enter/ch25/ch25_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBCDRAMA SD"  group-title="Unsorted",MBCDRAMA SD
+http://stream.shabakaty.com:6001/series/ch3/ch3_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NATGEOW HD"  group-title="Unsorted",NATGEOW HD
+http://stream.shabakaty.com:6001/enter/ch17/ch17_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Action SD"  group-title="Unsorted",OSN Action SD
+http://stream.shabakaty.com:6001/movies/ch4/ch4_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Action HD"  group-title="Unsorted",OSN Action HD
+http://stream.shabakaty.com:6001/movies/ch4/ch4_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NRJ SD"  group-title="Unsorted",NRJ SD
+http://stream.shabakaty.com:6001/enter/ch21/ch21_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN COMEDY2 HD"  group-title="Unsorted",OSN COMEDY2 HD
+http://stream.shabakaty.com:6001/enter/ch9/ch9_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Comedy SD"  group-title="Unsorted",OSN Comedy SD
+http://stream.shabakaty.com:6001/movies/ch2/ch2_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Comedy HD"  group-title="Unsorted",OSN Comedy HD
+http://stream.shabakaty.com:6001/movies/ch2/ch2_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NATWILD SD"  group-title="Unsorted",NATWILD SD
+http://stream.shabakaty.com:6001/enter/ch3/ch3_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NATGEOW SD"  group-title="Unsorted",NATGEOW SD
+http://stream.shabakaty.com:6001/enter/ch17/ch17_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NRJ HD"  group-title="Unsorted",NRJ HD
+http://stream.shabakaty.com:6001/enter/ch21/ch21_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC2 SD"  group-title="Unsorted",MBC2 SD
+http://stream.shabakaty.com:6001/movies/ch19/ch19_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HISTORY HD"  group-title="Unsorted",HISTORY HD
+http://stream.shabakaty.com:6001/enter/ch5/ch5_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HG-TV SD"  group-title="Unsorted",HG-TV SD
+http://stream.shabakaty.com:6001/enter/ch30/ch30_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HG-TV HD"  group-title="Unsorted",HG-TV HD
+http://stream.shabakaty.com:6001/enter/ch30/ch30_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JEEM SD"  group-title="Unsorted",JEEM SD
+http://stream.shabakaty.com:6001/kids/ch3/ch3_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="JEEM HD"  group-title="Unsorted",JEEM HD
+http://stream.shabakaty.com:6001/kids/ch3/ch3_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HISTORY SD"  group-title="Unsorted",HISTORY SD
+http://stream.shabakaty.com:6001/enter/ch5/ch5_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX-D HD"  group-title="Unsorted",FX-D HD
+http://stream.shabakaty.com:6001/series/ch11/ch11_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 2 SD"  group-title="Unsorted",FRANCE 2 SD
+http://stream.shabakaty.com:6001/enter/ch26/ch26_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FRANCE 2 HD"  group-title="Unsorted",FRANCE 2 HD
+http://stream.shabakaty.com:6001/enter/ch26/ch26_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GULLI SD"  group-title="Unsorted",GULLI SD
+http://stream.shabakaty.com:6001/kids/ch9/ch9_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="GULLI HD"  group-title="Unsorted",GULLI HD
+http://stream.shabakaty.com:6001/kids/ch9/ch9_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX-D SD"  group-title="Unsorted",FX-D SD
+http://stream.shabakaty.com:6001/series/ch11/ch11_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 4 HD"  group-title="Unsorted",MBC 4 HD
+http://stream.shabakaty.com:6001/enter/ch14/ch14_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC SD"  group-title="Unsorted",MBC SD
+http://stream.shabakaty.com:6001/enter/ch13/ch13_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MSR SD"  group-title="Unsorted",MBC MSR SD
+http://stream.shabakaty.com:6001/enter/ch19/ch19_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC MSR HD"  group-title="Unsorted",MBC MSR HD
+http://stream.shabakaty.com:6001/enter/ch19/ch19_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC2 HD"  group-title="Unsorted",MBC2 HD
+http://stream.shabakaty.com:6001/movies/ch19/ch19_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC VARIETY SD"  group-title="Unsorted",MBC VARIETY SD
+http://stream.shabakaty.com:6001/enter/ch16/ch16_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC VARIETY HD"  group-title="Unsorted",MBC VARIETY HD
+http://stream.shabakaty.com:6001/enter/ch16/ch16_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Action SD"  group-title="Unsorted",MBC Action SD
+http://stream.shabakaty.com:6001/movies/ch17/ch17_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Action HD"  group-title="Unsorted",MBC Action HD
+http://stream.shabakaty.com:6001/movies/ch17/ch17_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC 4 SD"  group-title="Unsorted",MBC 4 SD
+http://stream.shabakaty.com:6001/enter/ch14/ch14_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Max SD"  group-title="Unsorted",MBC Max SD
+http://stream.shabakaty.com:6001/movies/ch16/ch16_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC Max HD"  group-title="Unsorted",MBC Max HD
+http://stream.shabakaty.com:6001/movies/ch16/ch16_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MBC HD"  group-title="Unsorted",MBC HD
+http://stream.shabakaty.com:6001/enter/ch13/ch13_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PEOPLE SD"  group-title="Unsorted",PEOPLE SD
+http://stream.shabakaty.com:6001/enter/ch10/ch10_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PEOPLE HD"  group-title="Unsorted",PEOPLE HD
+http://stream.shabakaty.com:6001/enter/ch10/ch10_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OUT DOOR SD"  group-title="Unsorted",OUT DOOR SD
+http://stream.shabakaty.com:6001/enter/ch32/ch32_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROTANA HD"  group-title="Unsorted",ROTANA HD
+http://stream.shabakaty.com:6001/movies/ch21/ch21_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROTANA D SD"  group-title="Unsorted",ROTANA D SD
+http://stream.shabakaty.com:6001/series/ch10/ch10_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROTANA D HD"  group-title="Unsorted",ROTANA D HD
+http://stream.shabakaty.com:6001/series/ch10/ch10_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Thriller SD"  group-title="Unsorted",OSN Thriller SD
+http://stream.shabakaty.com:6001/movies/ch6/ch6_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OUT DOOR HD"  group-title="Unsorted",OUT DOOR HD
+http://stream.shabakaty.com:6001/enter/ch32/ch32_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Yahala SD"  group-title="Unsorted",OSN Yahala SD
+http://stream.shabakaty.com:6001/movies/ch3/ch3_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Yahala HD"  group-title="Unsorted",OSN Yahala HD
+http://stream.shabakaty.com:6001/movies/ch3/ch3_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ROTANA SD"  group-title="Unsorted",ROTANA SD
+http://stream.shabakaty.com:6001/movies/ch21/ch21_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC HD"  group-title="Unsorted",TLC HD
+http://stream.shabakaty.com:6001/enter/ch7/ch7_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star World SD"  group-title="Unsorted",Star World SD
+http://stream.shabakaty.com:6001/movies/ch12/ch12_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star World HD"  group-title="Unsorted",Star World HD
+http://stream.shabakaty.com:6001/movies/ch12/ch12_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRAVEL SD"  group-title="Unsorted",TRAVEL SD
+http://stream.shabakaty.com:6001/enter/ch23/ch23_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TRAVEL HD"  group-title="Unsorted",TRAVEL HD
+http://stream.shabakaty.com:6001/enter/ch23/ch23_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TLC SD"  group-title="Unsorted",TLC SD
+http://stream.shabakaty.com:6001/enter/ch7/ch7_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCIENCE HD"  group-title="Unsorted",SCIENCE HD
+http://stream.shabakaty.com:6001/enter/ch11/ch11_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAMA DUBAI SD"  group-title="Unsorted",SAMA DUBAI SD
+http://stream.shabakaty.com:6001/enter/ch29/ch29_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAMA DUBAI HD"  group-title="Unsorted",SAMA DUBAI HD
+http://stream.shabakaty.com:6001/enter/ch29/ch29_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Movies SD"  group-title="Unsorted",Star Movies SD
+http://stream.shabakaty.com:6001/movies/ch5/ch5_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Star Movies HD"  group-title="Unsorted",Star Movies HD
+http://stream.shabakaty.com:6001/movies/ch5/ch5_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SCIENCE SD"  group-title="Unsorted",SCIENCE SD
+http://stream.shabakaty.com:6001/enter/ch11/ch11_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Thriller HD"  group-title="Unsorted",OSN Thriller HD
+http://stream.shabakaty.com:6001/movies/ch6/ch6_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN FIRSTS SD"  group-title="Unsorted",OSN FIRSTS SD
+http://stream.shabakaty.com:6001/series/ch9/ch9_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Movie 1 HD"  group-title="Unsorted",OSN Movie 1 HD
+http://stream.shabakaty.com:6001/movies/ch13/ch13_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Maction SD"  group-title="Unsorted",OSN Maction SD
+http://stream.shabakaty.com:6001/movies/ch22/ch22_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Maction HD"  group-title="Unsorted",OSN Maction HD
+http://stream.shabakaty.com:6001/movies/ch22/ch22_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Family SD"  group-title="Unsorted",OSN Family SD
+http://stream.shabakaty.com:6001/movies/ch23/ch23_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Family HD"  group-title="Unsorted",OSN Family HD
+http://stream.shabakaty.com:6001/movies/ch23/ch23_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN COMEDY2 SD"  group-title="Unsorted",OSN COMEDY2 SD
+http://stream.shabakaty.com:6001/enter/ch9/ch9_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN FIRSTS HD"  group-title="Unsorted",OSN FIRSTS HD
+http://stream.shabakaty.com:6001/series/ch9/ch9_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Festival SD"  group-title="Unsorted",OSN Festival SD
+http://stream.shabakaty.com:6001/movies/ch7/ch7_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Festival HD"  group-title="Unsorted",OSN Festival HD
+http://stream.shabakaty.com:6001/movies/ch7/ch7_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Movie 1 SD"  group-title="Unsorted",OSN Movie 1 SD
+http://stream.shabakaty.com:6001/movies/ch13/ch13_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Pmovie SD"  group-title="Unsorted",OSN Pmovie SD
+http://stream.shabakaty.com:6001/movies/ch18/ch18_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Pmovie HD"  group-title="Unsorted",OSN Pmovie HD
+http://stream.shabakaty.com:6001/movies/ch18/ch18_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Sport SD"  group-title="Unsorted",OSN Sport SD
+http://stream.shabakaty.com:6001/sport/ch22/ch22_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Sport HD"  group-title="Unsorted",OSN Sport HD
+http://stream.shabakaty.com:6001/sport/ch22/ch22_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Movie 3 HD"  group-title="Unsorted",OSN Movie 3 HD
+http://stream.shabakaty.com:6001/movies/ch15/ch15_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Movie 2 SD"  group-title="Unsorted",OSN Movie 2 SD
+http://stream.shabakaty.com:6001/movies/ch14/ch14_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Movie 2 HD"  group-title="Unsorted",OSN Movie 2 HD
+http://stream.shabakaty.com:6001/movies/ch14/ch14_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN MOVIES SD"  group-title="Unsorted",OSN MOVIES SD
+http://stream.shabakaty.com:6001/movies/ch1/ch1_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN MOVIES HD"  group-title="Unsorted",OSN MOVIES HD
+http://stream.shabakaty.com:6001/movies/ch1/ch1_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="OSN Movie 3 SD"  group-title="Unsorted",OSN Movie 3 SD
+http://stream.shabakaty.com:6001/movies/ch15/ch15_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Movie 4 HD"  group-title="Unsorted",Bein Movie 4 HD
+http://stream.shabakaty.com:6001/movies/ch11/ch11_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Movie 3 SD"  group-title="Unsorted",Bein Movie 3 SD
+http://stream.shabakaty.com:6001/movies/ch10/ch10_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Movie 3 HD"  group-title="Unsorted",Bein Movie 3 HD
+http://stream.shabakaty.com:6001/movies/ch10/ch10_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN S SD"  group-title="Unsorted",BEIN S SD
+http://stream.shabakaty.com:6001/series/ch4/ch4_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN S HD"  group-title="Unsorted",BEIN S HD
+http://stream.shabakaty.com:6001/series/ch4/ch4_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Movie 4 SD"  group-title="Unsorted",Bein Movie 4 SD
+http://stream.shabakaty.com:6001/movies/ch11/ch11_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN DRAMA SD"  group-title="Unsorted",BEIN DRAMA SD
+http://stream.shabakaty.com:6001/series/ch1/ch1_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN DRAMA HD"  group-title="Unsorted",BEIN DRAMA HD
+http://stream.shabakaty.com:6001/series/ch1/ch1_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN S1 HD"  group-title="Unsorted",BEIN S1 HD
+http://stream.shabakaty.com:6001/series/ch7/ch7_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 11 HD"  group-title="Unsorted",BeinSport 11 HD
+http://stream.shabakaty.com:6001/sport/ch11/ch11_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 10 SD"  group-title="Unsorted",BeinSport 10 SD
+http://stream.shabakaty.com:6001/sport/ch10/ch10_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 10 HD"  group-title="Unsorted",BeinSport 10 HD
+http://stream.shabakaty.com:6001/sport/ch10/ch10_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 12 SD"  group-title="Unsorted",BeinSport 12 SD
+http://stream.shabakaty.com:6001/sport/ch12/ch12_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 12 HD"  group-title="Unsorted",BeinSport 12 HD
+http://stream.shabakaty.com:6001/sport/ch12/ch12_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 11 SD"  group-title="Unsorted",BeinSport 11 SD
+http://stream.shabakaty.com:6001/sport/ch11/ch11_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN S2 SD"  group-title="Unsorted",BEIN S2 SD
+http://stream.shabakaty.com:6001/series/ch8/ch8_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN S2 HD"  group-title="Unsorted",BEIN S2 HD
+http://stream.shabakaty.com:6001/series/ch8/ch8_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BEIN S1 SD"  group-title="Unsorted",BEIN S1 SD
+http://stream.shabakaty.com:6001/series/ch7/ch7_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 1 SD"  group-title="Unsorted",BeinSport 1 SD
+http://stream.shabakaty.com:6001/sport/ch1/ch1_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 1 HD"  group-title="Unsorted",BeinSport 1 HD
+http://stream.shabakaty.com:6001/sport/ch1/ch1_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 1 FHD"  group-title="Unsorted",BeinSport 1 FHD
+http://stream.shabakaty.com:6001/sport/ch1/ch1_1080.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BE JUNIOR SD"  group-title="Unsorted",BE JUNIOR SD
+http://stream.shabakaty.com:6001/kids/ch10/ch10_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 1 HD"  group-title="Unsorted",Alkass 1 HD
+http://stream.shabakaty.com:6001/sport/ch15/ch15_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALAWLA SD"  group-title="Unsorted",ALAWLA SD
+http://stream.shabakaty.com:6001/series/ch6/ch6_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALAWLA HD"  group-title="Unsorted",ALAWLA HD
+http://stream.shabakaty.com:6001/series/ch6/ch6_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 2 SD"  group-title="Unsorted",Alkass 2 SD
+http://stream.shabakaty.com:6001/sport/ch16/ch16_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 2 HD"  group-title="Unsorted",Alkass 2 HD
+http://stream.shabakaty.com:6001/sport/ch16/ch16_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 1 SD"  group-title="Unsorted",Alkass 1 SD
+http://stream.shabakaty.com:6001/sport/ch15/ch15_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADhabi 2 HD"  group-title="Unsorted",ADhabi 2 HD
+http://stream.shabakaty.com:6001/sport/ch21/ch21_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADhabi 1 SD"  group-title="Unsorted",ADhabi 1 SD
+http://stream.shabakaty.com:6001/sport/ch20/ch20_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADhabi 1 HD"  group-title="Unsorted",ADhabi 1 HD
+http://stream.shabakaty.com:6001/sport/ch20/ch20_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADHABI SD"  group-title="Unsorted",ADHABI SD
+http://stream.shabakaty.com:6001/enter/ch28/ch28_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADHABI HD"  group-title="Unsorted",ADHABI HD
+http://stream.shabakaty.com:6001/enter/ch28/ch28_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ADhabi 2 SD"  group-title="Unsorted",ADhabi 2 SD
+http://stream.shabakaty.com:6001/sport/ch21/ch21_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 3 HD"  group-title="Unsorted",Alkass 3 HD
+http://stream.shabakaty.com:6001/sport/ch17/ch17_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC SD"  group-title="Unsorted",AMC SD
+http://stream.shabakaty.com:6001/enter/ch12/ch12_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="AMC HD"  group-title="Unsorted",AMC HD
+http://stream.shabakaty.com:6001/enter/ch12/ch12_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALSHARQIA SD"  group-title="Unsorted",ALSHARQIA SD
+http://stream.shabakaty.com:6001/enter/ch24/ch24_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BE JUNIOR HD"  group-title="Unsorted",BE JUNIOR HD
+http://stream.shabakaty.com:6001/kids/ch10/ch10_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL P SD"  group-title="Unsorted",ANIMAL P SD
+http://stream.shabakaty.com:6001/enter/ch18/ch18_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANIMAL P HD"  group-title="Unsorted",ANIMAL P HD
+http://stream.shabakaty.com:6001/enter/ch18/ch18_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 4 SD"  group-title="Unsorted",Alkass 4 SD
+http://stream.shabakaty.com:6001/sport/ch18/ch18_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 4 HD"  group-title="Unsorted",Alkass 4 HD
+http://stream.shabakaty.com:6001/sport/ch18/ch18_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 3 SD"  group-title="Unsorted",Alkass 3 SD
+http://stream.shabakaty.com:6001/sport/ch17/ch17_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ALSHARQIA HD"  group-title="Unsorted",ALSHARQIA HD
+http://stream.shabakaty.com:6001/enter/ch24/ch24_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 5 SD"  group-title="Unsorted",Alkass 5 SD
+http://stream.shabakaty.com:6001/sport/ch19/ch19_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Alkass 5 HD"  group-title="Unsorted",Alkass 5 HD
+http://stream.shabakaty.com:6001/sport/ch19/ch19_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DMC SD"  group-title="Unsorted",DMC SD
+http://stream.shabakaty.com:6001/enter/ch20/ch20_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DMC HD"  group-title="Unsorted",DMC HD
+http://stream.shabakaty.com:6001/enter/ch20/ch20_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY SD"  group-title="Unsorted",DISNEY SD
+http://stream.shabakaty.com:6001/kids/ch6/ch6_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DRAMA HD"  group-title="Unsorted",DRAMA HD
+http://stream.shabakaty.com:6001/series/ch5/ch5_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinema2 SD"  group-title="Unsorted",Cinema2 SD
+http://stream.shabakaty.com:6001/movies/ch25/ch25_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinema2 HD"  group-title="Unsorted",Cinema2 HD
+http://stream.shabakaty.com:6001/movies/ch25/ch25_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinema1 SD"  group-title="Unsorted",Cinema1 SD
+http://stream.shabakaty.com:6001/movies/ch24/ch24_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DISNEY HD"  group-title="Unsorted",DISNEY HD
+http://stream.shabakaty.com:6001/kids/ch6/ch6_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DESCOVRY SD"  group-title="Unsorted",DESCOVRY SD
+http://stream.shabakaty.com:6001/enter/ch2/ch2_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DESCOVRY HD"  group-title="Unsorted",DESCOVRY HD
+http://stream.shabakaty.com:6001/enter/ch2/ch2_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DRAMA SD"  group-title="Unsorted",DRAMA SD
+http://stream.shabakaty.com:6001/series/ch5/ch5_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FIX FOXI SD"  group-title="Unsorted",FIX FOXI SD
+http://stream.shabakaty.com:6001/kids/ch8/ch8_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FIX FOXI HD"  group-title="Unsorted",FIX FOXI HD
+http://stream.shabakaty.com:6001/kids/ch8/ch8_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EI HD"  group-title="Unsorted",EI HD
+http://stream.shabakaty.com:6001/enter/ch6/ch6_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI SD"  group-title="Unsorted",DUBAI SD
+http://stream.shabakaty.com:6001/enter/ch27/ch27_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DUBAI HD"  group-title="Unsorted",DUBAI HD
+http://stream.shabakaty.com:6001/enter/ch27/ch27_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EI SD"  group-title="Unsorted",EI SD
+http://stream.shabakaty.com:6001/enter/ch6/ch6_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cinema1 HD"  group-title="Unsorted",Cinema1 HD
+http://stream.shabakaty.com:6001/movies/ch24/ch24_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 4 FHD"  group-title="Unsorted",BeinSport 4 FHD
+http://stream.shabakaty.com:6001/sport/ch4/ch4_1080.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 3 SD"  group-title="Unsorted",BeinSport 3 SD
+http://stream.shabakaty.com:6001/sport/ch3/ch3_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 3 HD"  group-title="Unsorted",BeinSport 3 HD
+http://stream.shabakaty.com:6001/sport/ch3/ch3_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 5 HD"  group-title="Unsorted",BeinSport 5 HD
+http://stream.shabakaty.com:6001/sport/ch5/ch5_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 4 SD"  group-title="Unsorted",BeinSport 4 SD
+http://stream.shabakaty.com:6001/sport/ch4/ch4_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 4 HD"  group-title="Unsorted",BeinSport 4 HD
+http://stream.shabakaty.com:6001/sport/ch4/ch4_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 2 FHD"  group-title="Unsorted",BeinSport 2 FHD
+http://stream.shabakaty.com:6001/sport/ch2/ch2_1080.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 13 SD"  group-title="Unsorted",BeinSport 13 SD
+http://stream.shabakaty.com:6001/sport/ch13/ch13_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 13 HD"  group-title="Unsorted",BeinSport 13 HD
+http://stream.shabakaty.com:6001/sport/ch13/ch13_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 3 FHD"  group-title="Unsorted",BeinSport 3 FHD
+http://stream.shabakaty.com:6001/sport/ch3/ch3_1080.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 2 SD"  group-title="Unsorted",BeinSport 2 SD
+http://stream.shabakaty.com:6001/sport/ch2/ch2_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 2 HD"  group-title="Unsorted",BeinSport 2 HD
+http://stream.shabakaty.com:6001/sport/ch2/ch2_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 5 SD"  group-title="Unsorted",BeinSport 5 SD
+http://stream.shabakaty.com:6001/sport/ch5/ch5_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOMERANG HD"  group-title="Unsorted",BOMERANG HD
+http://stream.shabakaty.com:6001/kids/ch7/ch7_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 9 SD"  group-title="Unsorted",BeinSport 9 SD
+http://stream.shabakaty.com:6001/sport/ch9/ch9_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 9 HD"  group-title="Unsorted",BeinSport 9 HD
+http://stream.shabakaty.com:6001/sport/ch9/ch9_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BRAEAM SD"  group-title="Unsorted",BRAEAM SD
+http://stream.shabakaty.com:6001/kids/ch1/ch1_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BRAEAM HD"  group-title="Unsorted",BRAEAM HD
+http://stream.shabakaty.com:6001/kids/ch1/ch1_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BOMERANG SD"  group-title="Unsorted",BOMERANG SD
+http://stream.shabakaty.com:6001/kids/ch7/ch7_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 7 HD"  group-title="Unsorted",BeinSport 7 HD
+http://stream.shabakaty.com:6001/sport/ch7/ch7_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 6 SD"  group-title="Unsorted",BeinSport 6 SD
+http://stream.shabakaty.com:6001/sport/ch6/ch6_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 6 HD"  group-title="Unsorted",BeinSport 6 HD
+http://stream.shabakaty.com:6001/sport/ch6/ch6_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 8 SD"  group-title="Unsorted",BeinSport 8 SD
+http://stream.shabakaty.com:6001/sport/ch8/ch8_360.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 8 HD"  group-title="Unsorted",BeinSport 8 HD
+http://stream.shabakaty.com:6001/sport/ch8/ch8_720.m3u8
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="BeinSport 7 SD"  group-title="Unsorted",BeinSport 7 SD
+http://stream.shabakaty.com:6001/sport/ch7/ch7_360.m3u8
+
